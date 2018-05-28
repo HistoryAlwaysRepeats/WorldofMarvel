@@ -1,0 +1,28 @@
+state={
+	id=763
+	name="STATE_763"
+	manpower=50000000
+    state_category = superstate
+
+    resources={
+		steel=220
+		tungsten=75
+		chromium=90
+		aluminium=180
+	}
+
+	history={
+		owner = WAK
+		victory_points = { 3854 50 }
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 15
+			arms_factory = 10
+			}
+		add_core_of = WAK
+    }
+	
+	provinces={
+		3854 7088 12989 13177 
+	}
+}
