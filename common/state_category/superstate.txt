@@ -1,8 +1,0 @@
-state_categories={
-	superstate = {
-		local_building_slots = 24
-	
-			color = { 240 240 240 }
-
-	}
-}
