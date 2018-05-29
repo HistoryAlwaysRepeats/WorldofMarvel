@@ -487,6 +487,10 @@ WAK = {
 	color = rgb { 161  190  102 }
 	color_ui = rgb { 255 73 121 }
 }
+TRN = {
+	color = rgb { 88 103 162 }
+	color_ui = rgb { 255 73 121 }
+}
 D01 = {
 	color = rgb { 200 100 31 }
 	color_ui = rgb { 245 123 38 }

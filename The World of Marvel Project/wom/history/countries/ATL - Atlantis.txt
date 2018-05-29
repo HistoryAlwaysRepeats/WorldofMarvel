@@ -48,9 +48,56 @@ create_country_leader = {
 	}
 }
 
+#King Namor
+create_country_leader = {
+	name = "King Namor"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_ATL_Namor.tga"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		imperial_connections
+		indomitable_perseverance
+		popular_figurehead2
+	}
+}
+
+#King Byrrah
+create_country_leader = {
+	name = "King Byrrah"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "namor.tga"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		inexperienced_imperialist
+	}
+}
+
+#President Namora
+create_country_leader = {
+	name = "President Namora"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "aquaria neptunia.tga"
+	expire = "1965.1.1"
+	ideology = liberalism
+	traits = {
+		imperial_connections
+		indomitable_perseverance
+	}
+}
+
 create_field_marshal = {
 	name = "King Namor"
-	picture = "namor.tga"
+	picture = "Portrait_ATL_Namor.tga"
 	skill = 9
 }
+
+create_field_marshal = {
+	name = "General Krang"
+	picture = "krang.tga"
+	skill = 6
+}
+
+
 
