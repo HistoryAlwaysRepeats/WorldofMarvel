@@ -499,6 +499,18 @@ SIN = {
 	color = rgb { 171  190  152 }
 	color_ui = rgb { 255 73 121 }
 }
+SHA = {
+	color = rgb { 72 42 116 }
+	color_ui = rgb { 255 73 121 }
+}
+SEA = {
+	color = rgb { 161 206 82 }
+	color_ui = rgb { 255 73 121 }
+}
+WAL = {
+	color = rgb { 93 54 18 }
+	color_ui = rgb { 255 73 121 }
+}
 D01 = {
 	color = rgb { 200 100 31 }
 	color_ui = rgb { 245 123 38 }

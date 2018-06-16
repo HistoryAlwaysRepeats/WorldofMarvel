@@ -36,15 +36,16 @@ set_politics = {
 
 set_convoys = 200
 
-#King Namor
+#King Thakorr
 create_country_leader = {
-	name = "King Namor"
+	name = "King Thakorr"
 	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "namor.tga"
-	expire = "1965.1.1"
+	picture = "kingthakorryoung.tga"
+	expire = "1950.1.1"
 	ideology = despotism
 	traits = {
-		#
+		indomitable_perseverance
+		nationalist_symbol
 	}
 }
 
@@ -53,10 +54,10 @@ create_country_leader = {
 	name = "King Namor"
 	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_ATL_Namor.tga"
-	expire = "1965.1.1"
+	expire = "2000.1.1"
 	ideology = despotism
 	traits = {
-		imperial_connections
+		inexperienced_imperialist
 		indomitable_perseverance
 		popular_figurehead2
 	}
@@ -67,10 +68,23 @@ create_country_leader = {
 	name = "King Byrrah"
 	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "namor.tga"
-	expire = "1965.1.1"
+	expire = "2001.1.1"
 	ideology = despotism
 	traits = {
 		inexperienced_imperialist
+	}
+}
+
+#King Thakorr
+create_country_leader = {
+	name = "King Thakorr"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "kingthakorryoung.tga"
+	expire = "1950.1.1"
+	ideology = despotism
+	traits = {
+		indomitable_perseverance
+		nationalist_symbol
 	}
 }
 

@@ -1476,6 +1476,60 @@
  SIN_communism:0 "People's Republic of Sin-Cong"
  SIN_fascism_DEF:0 "the People's Republic of Sin-Cong"
  SIN_fascism_ADJ:0 "Sin-Congan"
+
+ ### Whiatan
+  # neutrality
+ SHA_neutrality:0 "Whiatane Empire"
+ SHA_neutrality_DEF:0 "Whiatan Marine Empire"
+ SHA_neutrality_ADJ:0 "Whiatane"
+ # facism
+ SHA_fascism:0 "Whiatane Junta"
+ SHA_fascism_DEF:0 "the Whiatane Junta"
+ SHA_fascism_ADJ:0 "Whiatane"
+ # democratic
+ SHA_fascism:0 "Whiatane"
+ SHA_fascism_DEF:0 "the Republic of Whiatane"
+ SHA_fascism_ADJ:0 "Whiatane"
+  # communism
+ SHA_communism:0 "Whiatane Union"
+ SHA_fascism_DEF:0 "the People's Republic of Whiatane"
+ SHA_fascism_ADJ:0 "Whiatane"
+
+  ### Pechat
+  # neutrality
+ SEA_neutrality:0 "Pechati Kingdom"
+ SEA_neutrality_DEF:0 "the Kingdom of Pechat"
+ SEA_neutrality_ADJ:0 "Pechati"
+ # facism
+ SEA_fascism:0 "Pechati Empire"
+ SEA_fascism_DEF:0 "the Pechati Empire"
+ SEA_fascism_ADJ:0 "Pechati"
+ # democratic
+ SEA_fascism:0 "Pechat"
+ SEA_fascism_DEF:0 "Pechat"
+ SEA_fascism_ADJ:0 "Pechati"
+  # communism
+ SEA_communism:0 "Pechat"
+ SEA_fascism_DEF:0 "Pechat"
+ SEA_fascism_ADJ:0 "Pechati"
+
+   ### Hvalros
+  # neutrality
+ WAL_neutrality:0 "Hvalros"
+ WAL_neutrality_DEF:0 "Hvalros"
+ WAL_neutrality_ADJ:0 "Hvalrose"
+ # facism
+ WAL_fascism:0 "Hvalrosyi"
+ WAL_fascism_DEF:0 "Hvalrosyi"
+ WAL_fascism_ADJ:0 "Hvalrosyi"
+ # democratic
+ WAL_fascism:0 "Hvalros"
+ WAL_fascism_DEF:0 "Hvalros"
+ WAL_fascism_ADJ:0 "Hvalrose"
+  # communism
+ WAL_communism:0 "Hvalros"
+ WAL_fascism_DEF:0 "People's Hvalros"
+ WAL_fascism_ADJ:0 "Hvalrose"
  
  FACTION_NAME_DEMOCRATIC_1:0 "The $CONTINENT_ADJ$ Association"
  FACTION_NAME_DEMOCRATIC_2:0 "The $CONTINENT_ADJ$ Entente"
