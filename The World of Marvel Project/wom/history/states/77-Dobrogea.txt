@@ -1,0 +1,22 @@
+
+state={
+	id=77
+	name="STATE_77"
+	manpower = 378000
+	
+	state_category = rural
+
+	history={
+		owner = TRN
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+		}
+		add_core_of = TRN
+		add_core_of = ROM
+		add_claim_by = BUL
+	}
+
+	provinces={
+		9614 11597 657 9635 687 3076 6677 11636 9651 674 11603
+}

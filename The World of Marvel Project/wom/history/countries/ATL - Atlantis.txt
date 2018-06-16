@@ -99,5 +99,30 @@ create_field_marshal = {
 	skill = 6
 }
 
+create_corps_commander = {
+	name = "Bob Jones"
+	picture = "atlantean_general_1.tga"
+	traits = { superhero }
+	skill = 5
+
+	attack_skill = 3
+	defense_skill = 5
+	planning_skill = 4
+	logistics_skill = 4
+}
+
+create_corps_commander = {
+	name = "Namor The Sub-Mariner"
+	picture = "Portrait_ATL_Namor.tga"
+	traits = { superhero }
+	skill = 5
+
+	attack_skill = 3
+	defense_skill = 5
+	planning_skill = 4
+	logistics_skill = 4
+}
+
+
 
 

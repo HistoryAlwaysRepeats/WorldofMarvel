@@ -5,7 +5,7 @@ state={
 		owner = ATL
 		}
 	provinces={
-		12589 
+		12589 7810
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

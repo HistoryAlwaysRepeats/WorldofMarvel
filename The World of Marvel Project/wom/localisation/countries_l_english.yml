@@ -1355,18 +1355,58 @@
  MAN_democratic_ADJ:0 "Manchu"
  MAN_neutrality_ADJ:0 "Manchu"
  MAN_communism_ADJ:0 "Manchu"
+
  ### Atlantis
  ATL_neutrality:0 "Atlantis"
- ATL_neutrality_DEF:0 "The Kingdom of Atlantis"
- ATL_neutrality_ADJ:0 "Atlantian"
+ ATL_neutrality_DEF:0 "the Kingdom of Atlantis"
+ ATL_neutrality_ADJ:0 "Atlantean"
+ # facism
+ ATL_fascism:0 "Atlantis"
+ ATL_fascism_DEF:0 "Atlantis"
+ ATL_fascism_ADJ:0 "Atlantean"
+ # democratic
+ ATL_fascism:0 "Atlantis"
+ ATL_fascism_DEF:0 "the Atlantean Republic"
+ ATL_fascism_ADJ:0 "Atlantean"
+  # communism
+ ATL_communism:0 "Atlantis"
+ ATL_fascism_DEF:0 "People's Republic of Atlantis"
+ ATL_fascism_ADJ:0 "Atlantean"
+ 
  #### Latveria
  LTE_neutrality:0 "Latveria"
- LTE_neutrality_DEF:0 "The Kingdom of Latveria"
+ LTE_neutrality_DEF:0 "the Kingdom of Latveria"
  LTE_neutrality_ADJ:0 "Latverian"
+  # facism
+ LTE_fascism:0 "Latveria"
+ LTE_fascism_DEF:0 "Latveria"
+ LTE_fascism_ADJ:0 "Latverian"
+ # democratic
+ LTE_fascism:0 "Latveria"
+ LTE_fascism_DEF:0 "Latveria"
+ LTE_fascism_ADJ:0 "Latverian"
+  # communism
+ LTE_communism:0 "Latverian Commune"
+ LTE_fascism_DEF:0 "the Latverian Commune"
+ LTE_fascism_ADJ:0 "Latverian"
+ 
  #### Symkaria
- SYM_neutrality:0 "Symkaria-Transia"
- SYM_neutrality_DEF:0 "The Kingdom of Symkaria"
+ SYM_neutrality:0 "Symkaria"
+ SYM_neutrality_DEF:0 "the Kingdom of Symkaria"
  SYM_neutrality_ADJ:0 "Symkarian"
+ # facism
+ SYM_fascism:0 "Symkaria"
+ SYM_fascism_DEF:0 "Symkaria"
+ SYM_fascism_ADJ:0 "Symkarian"
+ # democratic
+ SYM_fascism:0 "Symkaria"
+ SYM_fascism_DEF:0 "Republic of Symkaria"
+ SYM_fascism_ADJ:0 "Symkarian"
+  # communism
+ SYM_communism:0 "Symkarian Union"
+ SYM_fascism_DEF:0 "People's Republic of Symkaria"
+ SYM_fascism_ADJ:0 "Symkarian"
+
  ### Wakanda
   # neutrality
  WAK_neutrality:0 "Wakanda"
@@ -1384,6 +1424,58 @@
  WAK_communism:0 "Wakandan Union"
  WAK_fascism_DEF:0 "People's Republic of Wakanda"
  WAK_fascism_ADJ:0 "Wakandan"
+ 
+ ### Madripoor
+  # neutrality
+ MAD_neutrality:0 "Madripoor"
+ MAD_neutrality_DEF:0 "Madripoor"
+ MAD_neutrality_ADJ:0 "Madripoorean"
+ # facism
+ MAD_fascism:0 "Madripoor"
+ MAD_fascism_DEF:0 "the Madripoorean Junta"
+ MAD_fascism_ADJ:0 "Madripoorean"
+ # democratic
+ MAD_fascism:0 "Madripoor"
+ MAD_fascism_DEF:0 "the Republic of Madripoor"
+ MAD_fascism_ADJ:0 "Madripoorean"
+  # communism
+ MAD_communism:0 "Madripoor Union"
+ MAD_fascism_DEF:0 "the People's Republic of Madripoor"
+ MAD_fascism_ADJ:0 "Madripoorean"
+
+ ### Transia
+ TRN_neutrality:0 "Transia"
+ TRN_neutrality_DEF:0 "Transia"
+ TRN_neutrality_ADJ:0 "Transian"
+ # facism
+ TRN_fascism:0 "Transia"
+ TRN_fascism_DEF:0 "Transia"
+ TRN_fascism_ADJ:0 "Transian"
+ # democratic
+ TRN_fascism:0 "Transia"
+ TRN_fascism_DEF:0 "the Transian Republic"
+ TRN_fascism_ADJ:0 "Transian"
+  # communism
+ TRN_communism:0 "Transia"
+ TRN_fascism_DEF:0 "Transian People's Republic"
+ TRN_fascism_ADJ:0 "Transian"
+
+ ### Sin-Cong
+ SIN_neutrality:0 "Sin-Cong"
+ SIN_neutrality_DEF:0 "the Sin-Cong Dynasty"
+ SIN_neutrality_ADJ:0 "Sin-Congan"
+ # facism
+ SIN_fascism:0 "Sin-Cong"
+ SIN_fascism_DEF:0 "Sin-Cong"
+ SIN_fascism_ADJ:0 "Sin-Congan"
+ # democratic
+ SIN_fascism:0 "Sin-Cong"
+ SIN_fascism_DEF:0 "the Sin-Congan Republic"
+ SIN_fascism_ADJ:0 "Sin-Congan"
+  # communism
+ SIN_communism:0 "People's Republic of Sin-Cong"
+ SIN_fascism_DEF:0 "the People's Republic of Sin-Cong"
+ SIN_fascism_ADJ:0 "Sin-Congan"
  
  FACTION_NAME_DEMOCRATIC_1:0 "The $CONTINENT_ADJ$ Association"
  FACTION_NAME_DEMOCRATIC_2:0 "The $CONTINENT_ADJ$ Entente"

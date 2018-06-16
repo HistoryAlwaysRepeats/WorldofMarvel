@@ -334,7 +334,7 @@
  STATE_333:1 "North Borneo"
  STATE_334:1 "Kalimantan"
  STATE_335:0 "Java"
- STATE_336:0 "Singapore"
+ STATE_336:0 "Madripoor"
  STATE_337:0 "Faroe Islands"
  STATE_338:0 "Gloucestershire"
  STATE_339:0 "Izmir"
@@ -764,3 +764,4 @@
  STATE_763:0 "Wakanda"
  STATE_764:0 "Atlantis"
  STATE_765:0 "Symkaria"
+ STATE_766:0 "Madripoor"

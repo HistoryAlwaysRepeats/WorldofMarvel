@@ -1,11 +1,11 @@
 state={
 	id=765
 	history={
-		owner = SYM
+		owner = LTE
 		}
 	name="STATE_765"
 	provinces={
-		630 662 3649 11592 
+	 662 3649 11592 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

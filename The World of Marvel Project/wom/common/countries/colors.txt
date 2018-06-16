@@ -491,6 +491,14 @@ TRN = {
 	color = rgb { 88 103 162 }
 	color_ui = rgb { 255 73 121 }
 }
+MAD = {
+	color = rgb { 162 29 44 }
+	color_ui = rgb { 255 73 121 }
+}
+SIN = {
+	color = rgb { 171  190  152 }
+	color_ui = rgb { 255 73 121 }
+}
 D01 = {
 	color = rgb { 200 100 31 }
 	color_ui = rgb { 245 123 38 }
